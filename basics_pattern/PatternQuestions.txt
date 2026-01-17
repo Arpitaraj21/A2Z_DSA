@@ -1,0 +1,148 @@
+1) Solid Square
+Print a square of size n.
+For n = 4
+
+``` 
+****
+****
+****
+****
+```
+
+2) 2️⃣ Solid Rectangle
+Rows = r, Columns = c
+For r = 3, c = 5
+*****
+*****
+*****
+
+3) 3️⃣ Single Row & Column
+*****
+
+b) *
+*
+*
+*
+*
+
+
+🟡 Level 2 – Right Angle Triangles
+
+4) 4️⃣ Left Aligned Right Triangle
+For n = 5
+
+*
+**
+***
+****
+*****
+
+
+5) 5️⃣ Numbers Triangle
+For n = 5
+
+1
+12
+123
+1234
+12345
+
+6) 6️⃣ Same Number Triangle
+For n = 5
+
+1
+22
+333
+4444
+55555
+
+
+🟠 Level 3 – Reverse & Inverted Patterns
+
+7) 7️⃣ Inverted Star Triangle
+For n = 5
+
+*****
+****
+***
+**
+*
+
+8) 8️⃣ Inverted Number Pattern
+For n = 5
+
+12345
+1234
+123
+12
+1
+
+9) 9️⃣ Reverse Right Triangle
+For n = 5
+
+    *
+   **
+  ***
+ ****
+*****
+
+
+🔵 Level 4 – Centered & Mixed Logic
+
+10) 🔟 Pyramid Star Pattern
+For n = 5
+
+    *
+   ***
+  *****
+ *******
+*********
+
+11) 1️⃣1️⃣ Number Pyramid
+For n = 5
+
+    1
+   121
+  12321
+ 1234321
+123454321
+
+12) 1️⃣2️⃣ Hollow Square
+For n = 5
+
+*****
+*   *
+*   *
+*   *
+*****
+
+🔴 Level 5 – Brain Warm-up (Very Important)
+
+13) 1️⃣3️⃣ Floyd’s Triangle
+For n = 5
+
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+
+
+14) 1️⃣4️⃣ Binary Triangle
+For n = 5
+
+1
+01
+101
+0101
+10101
+
+
+15) 1️⃣5️⃣ X Pattern
+For n = 5
+
+*   *
+ * *
+  *
+ * *
+*   *
