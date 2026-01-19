@@ -1,0 +1,99 @@
+🔹 LEVEL 1: Very Basic (Must-do)
+
+Check if a number is Even or Odd
+
+Check if a number is Positive, Negative, or Zero
+
+Reverse a number
+
+Check if a number is a Palindrome
+
+Find the Sum of digits of a number
+
+Find the Product of digits
+
+Count the number of digits
+
+Find the largest digit in a number
+
+Find the smallest digit in a number
+
+🔹 LEVEL 2: Basic Logic (Common Interview)
+
+Check if a number is Prime
+
+Print all Prime numbers in a range
+
+Find the Factorial of a number
+
+Print all Factors of a number
+
+Check if a number is Perfect Number
+
+(sum of proper divisors = number)
+
+Check if a number is Armstrong Number
+
+(153 → 1³ + 5³ + 3³)
+
+Check if a number is Strong Number
+
+(145 → 1! + 4! + 5!)
+
+🔹 LEVEL 3: Intermediate (Logic Builder)
+
+Check if a number is Harshad / Niven Number
+
+Find GCD / HCF of two numbers
+
+Find LCM of two numbers
+
+Check if a number is Neon Number
+
+Check if a number is Spy Number
+
+(sum of digits == product of digits)
+
+Check if a number is Automorphic Number
+
+(square ends with the number)
+
+🔹 LEVEL 4: Advanced Number Problems (Assessment Level)
+
+Check if a number is Fibonacci Number
+
+Print Fibonacci series up to N terms
+
+Check if a number is Happy Number
+
+Check if a number is Abundant / Deficient
+
+Convert Decimal → Binary
+
+Convert Binary → Decimal
+
+Find Power of a number without using Math.pow()
+
+Check if a number is Ugly Number
+
+🔹 BONUS (Often Asked Twist Questions)
+
+Armstrong numbers in a given range
+
+Prime numbers using optimized approach
+
+Factorial using recursion
+
+Reverse number without converting to string
+
+Count trailing zeros in factorial
+
+Check Palindrome without string conversion
+
+Find Nth Fibonacci number
+
+Check if a number is Power of 2
+
+Sum of digits until single digit
+
+Find missing number in 1 to N
