@@ -3,13 +3,19 @@ public class Pattern11 {
 
     static void NumberPyramid(int n) {
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n - i; j++) {
+            // Print spaces
+            for (int j = n - i; j > 1; j--) {
                 System.out.print(" ");
             }
-            for (int k = 1; k <= i * 2 + 1; k++) {
-                System.out.print(k);
+            // Print increasing numbers
+            for (int j = 0; j <= i; j++) {
+                System.out.print(j + 1);
             }
-            System.out.println("");
+            // Print decreasing numbers
+            for (int j = i - 1; j >= 0; j--) {
+                System.out.print(j + 1);
+            }
+            System.out.println();
         }
     }
 
