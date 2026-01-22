@@ -2,19 +2,19 @@
 
 1) Check if a number is Even or Odd
 
-Check if a number is Positive, Negative, or Zero
+2) Check if a number is Positive, Negative, or Zero
 
-Reverse a number
+3) Reverse a number
 
-Check if a number is a Palindrome
+4) Check if a number is a Palindrome
 
-Find the Sum of digits of a number
+5) Find the Sum of digits of a number
 
-Find the Product of digits
+6) Find the Product of digits
 
-Count the number of digits
+7) Count the number of digits
 
-Find the largest digit in a number
+8) Find the largest digit in a number
 
 Find the smallest digit in a number
 
