@@ -1,6 +1,6 @@
 🔹 LEVEL 1: Very Basic (Must-do)
 
-Check if a number is Even or Odd
+1) Check if a number is Even or Odd
 
 Check if a number is Positive, Negative, or Zero
 
